@@ -1,0 +1,16 @@
+streamlit
+pandas
+sklearn
+plotly_express
+numpy
+tensorflow
+keras 
+torch
+transformers
+math 
+json
+requests
+streamlit_lottie
+pillow
+requests
+statistics
