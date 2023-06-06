@@ -1,4 +1,4 @@
-# Yachay.ai-Task
+# Yachay.ai Task - Geolocation Prediction from Tweets
 ![alt text](https://github.com/giova22i/Yachay.ai-Task/blob/main/images/companyimage.png)
 
 ## Objective 
