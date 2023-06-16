@@ -1,4 +1,4 @@
-# Geolocation Prediction of Twitter Users w/ Neural Networks
+# Text-based Geolocation Prediction of Twitter Users 
 ![alt text](https://github.com/giova22i/Yachay.ai-Task/blob/main/images/Yachay_AI_Badge.jpg)
 
 ## Objective 
