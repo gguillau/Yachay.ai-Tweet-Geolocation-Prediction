@@ -1,5 +1,8 @@
-# Text-based Geolocation Prediction of Twitter Users 
-![alt text](https://github.com/giova22i/Yachay.ai-Task/blob/main/images/Yachay_AI_Badge.jpg)
+# <p align="center">Text-based Geolocation Prediction of Twitter Users 
+</p>
+<p align="center">
+  <img src="https://github.com/giova22i/Yachay.ai-Task/blob/main/images/Yachay_AI_Badge.jpg" />
+</p>
 
 ## Objective 
 Yachay is an open-source Machine Learning community that has collected decades worth of useful natural language data from traditional media (i.e. New York Times articles), social media (i.e. Twitter & Reddit), messenger channels, tech blogs, GitHub profiles and issues, the dark web, and legal proceedings, as well as the decisions and publications of government regulators and legislators all across the world.
